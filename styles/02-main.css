@@ -1,0 +1,32 @@
+* {
+	font-family: Arial;
+}
+
+div {
+	font-size: 2em;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+p, #div2 {
+	font-weight: 800;
+}
+
+.important_element {
+	color: darkred;
+}
+
+#div1 {
+	color: yellowgreen;
+}
+
+ul li {
+	font-size: 1.2em;
+	color: darkgreen;
+}
+
+ul > li {
+	color: darkmagenta;
+}
